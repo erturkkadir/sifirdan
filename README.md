@@ -1,2 +1,5 @@
-# sifirdan
-Youtube series codes and presentation for AI and ML
+# Sıfırdan uzmanlığa Yapay Zeka
+
+1. Bölüm
+	Yapay zeka nedir, ne işe yarar, nasıl yapılır
+	Tanımlar
